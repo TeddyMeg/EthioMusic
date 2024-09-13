@@ -19,5 +19,13 @@
     "mongodb": "^4.5.0",
     "mongoose": "^6.3.0",
     "nodemon": "^2.0.15"
-  }
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.20.2",
+    "@babel/node": "^7.20.2",
+    "@babel/preset-env": "^7.20.2",
+    "babel-plugin-module-resolver": "^4.1.0",
+    "concurrently": "^7.5.0",
+  },
 }
