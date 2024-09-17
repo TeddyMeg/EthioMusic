@@ -3,6 +3,7 @@ const app = express();
 require("dotenv/config");
 const cors = require("cors");
 const { default: mongoose } = require("mongoose");
+const port = process.env.PORT || 10000;
 
 app.use(cors({ origin: true }));
 app.use(express.json());
@@ -35,4 +36,4 @@ mongoose.connection
     console.log(`Error : ${error}`);
   });
 
-app.listen(4000, () => console.log("lisitening to port 4000"));
+app.listen(port, () => console.log("lisitening to port ${port}"));
