@@ -76,4 +76,21 @@ You can use the web interface or the provided API endpoints to add, update, or d
 Users can browse and play music directly from the web interface. The application provides a user-friendly interface to navigate through different songs and playlists.
 
 # 7. Interface
+### 7.1. Login Page
+![Login](https://github.com/user-attachments/assets/d8b8af75-4ea7-4caa-a601-4c9569c0d8ad)
+### 7.2. Home Page
+![Home Page](https://github.com/user-attachments/assets/c15d9e08-14de-4190-8aa2-5c38b706f414)
+### 7.3. Dashboard Home Page
+![Dashboard](https://github.com/user-attachments/assets/1c3ba0a7-f774-4faa-8588-ab8a2e6d2a38)
+### 7.4. Dashboard Users Page
+![Dashboard Users](https://github.com/user-attachments/assets/7f2c0649-38f7-4380-b42c-b48b1806f563)
+### 7.5. Dashboard Songs Page
+![Dashboard Songs](https://github.com/user-attachments/assets/0662eca7-3f2e-4211-9b68-e390e50ebf98)
+### 7.6. Dashboard Artist Page
+![Dashboard Artist](https://github.com/user-attachments/assets/248e77d4-880e-4163-b271-f1e4cdfffd0a)
+### 7.7. Dashboard Albums Page
+![Dashboard Albums](https://github.com/user-attachments/assets/39fd7a10-edde-4fb8-83bf-b07c346906d9)
+### 7.8. Playing Songs
+![Playing songs](https://github.com/user-attachments/assets/0513a693-5b75-4347-9c13-83352bbd2fb2)
+
 
